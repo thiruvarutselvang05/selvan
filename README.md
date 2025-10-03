@@ -1,11 +1,5 @@
 # Selvan eCommerce Website
 
-![GitHub repo size](https://github.com/thiruvarutselvang05/Selvan.git)
-![GitHub stars](https://github.com/thiruvarutselvang05/Selvan.git)
-![GitHub forks](https://github.com/thiruvarutselvang05/Selvan.git)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codewithsadee_?style=social)](https://twitter.com/intent/follow?screen_name=codewithsadee_)
-[![YouTube Video Views](https://img.shields.io/youtube/views/3l8Lob4ysI0?style=social)](https://youtu.be/3l8Lob4ysI0)
-
 Selvan is a fully responsive ecommerce website, maximum compatiblities in all mobile devices, built using HTML, CSS, and JavaScript.
 
 ## Demo
